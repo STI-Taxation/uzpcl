@@ -1,0 +1,2 @@
+rootProject.name='UZ PCL'
+include ':app'
